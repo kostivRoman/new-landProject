@@ -1,0 +1,19 @@
+{
+  "name": "new-lanproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.3",
+    "@typescript-eslint/eslint-plugin": "^7.13.0",
+		"eslint": "^8.30.0",
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-html-reporter": "^0.7.4",
+    "prettier": "^3.3.2"
+  }
+}
